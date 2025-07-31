@@ -1,14 +1,14 @@
 pipeline{
     tools{
-        jdk 'myjava'
-        maven 'mymaven'
+        jdk 'labtechjava'
+        maven 'labtechmaven'
     }
 	agent any
       stages{
            stage('Checkout'){
               steps{
 		 echo 'cloning..'
-                 git 'https://github.com/RayItern/JUNECLASSPRO1.git'
+                 git 'https://github.com/Yomi-Olaniyan/repo--for-freestyle-pipeline.git'
               }
           }
           stage('Compile'){
