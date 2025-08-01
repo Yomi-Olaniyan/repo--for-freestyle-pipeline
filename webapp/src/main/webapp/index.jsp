@@ -2,3 +2,7 @@
 <h2><i><bold>Run the scripts on the machine and the machine will run -- even if the machine is a caterpillar.</bold></i></h2>
 <h2><i><bold>This is the whole essence of Devops. You can run the script and sip your tea in peace!</bold></i></h2>
 <h3>Or you could demur and labour to manually make changes!</h3>
+
+
+
+<h3><i>With Ansible I got rid of the 'UNSTABLE' error that ended the attempted deployment the last time!</i></h3>
